@@ -1,3 +1,5 @@
-Testing out Git and Github
+#This is a Git Test
 
-#Woohoo!
+We're testing out Git for fun.
+
+##This should be a smaller header
